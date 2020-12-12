@@ -1,4 +1,4 @@
-[
+
     {
         "superhero":"Batman", 
         "publisher":"DC Comics", 
@@ -83,7 +83,6 @@
         "actor":"James Howlett",
         "cameout":"The Incredible Hulk #180",
         "characters":"James Howlett"
-    },
+    }
    
    
-]
