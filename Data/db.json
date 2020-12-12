@@ -1,4 +1,4 @@
-{
+/*{
       "groupName" : "Super hero ",
       "publisher" : "Marvel DC",
       "formed" : 2016,
@@ -44,6 +44,62 @@
         "actor":"Bruce Banner",
         "cameout":"The Incredible Hulk #1",
         "characters":"Bruce Banner"
+      }
+     ]
+    }*/
+
+    {
+      "groupName" : "Super hero ",
+      "publisher" : "Marvel DC",
+      "formed" : 2016,
+      "secretBase" : "Super tower",
+      "active" : true,
+      "members" : [
+        {
+        "superhero":"Batman", 
+        "actor":"Bruce Wayne",
+        "cameout":"Detective Comics #27",
+        "characters":"Bruce Wayne",
+        "images": "https://asset.swarovski.com/images/$size_1450/t_swa103/b_rgb:fafafa,c_scale,dpr_3.0,f_auto,w_500/5492687_png/batman-swarovski-5492687.png"
+       },
+        {
+        "superhero":"Flash", 
+        "actor":"Jay Garrick",
+        "cameout":"Flash Comics #1",
+        "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen",
+        "images": "https://programma.sorrisi.com/guidatv/uploads/media/cache/epg_program_large/uploads/epg/images/programseries/0/0/originale/269291.jpg"
+      },
+        {
+        "superhero":"Captain America", 
+        "publisher":"Marvel Comics", 
+        "actor":"Steve Rogers",
+        "cameout":"Captain America Comics #1",
+        "characters":"Steve Rogers",
+        "images": "https://i.pinimg.com/originals/d5/81/79/d58179ac3e5781037d0fbf2bf3a97cdc.jpg"
+      },
+       {
+        "superhero":"Iron Man", 
+        "publisher":"Marvel Comics", 
+        "actor":"Tony Stark",
+        "cameout":"Tales of Suspense #39",
+        "characters":"Tony Stark", 
+        "images": "https://miro.medium.com/max/3840/1*IXj6F6TiST3LK9r50a-MLw.jpeg"
+       },
+      {
+        "superhero":"Thor", 
+        "publisher":"Marvel Comics", 
+        "actor":"Thor Odinson",
+        "cameout":"Journey into Myster #83",
+        "characters":"Thor Odinson",
+        "images":"https://media.gettyimages.com/photos/chris-hemsworth-sighted-filming-on-the-set-of-thor-2-on-november-16-picture-id156504330?s=612x612"
+    },
+      {
+        "superhero":"Hulk", 
+        "publisher":"Marvel Comics", 
+        "actor":"Bruce Banner",
+        "cameout":"The Incredible Hulk #1",
+        "characters":"Bruce Banner",
+        "images": "https://fermi.gsfc.nasa.gov/science/constellations/pages/inc/img/hulk/Hulk_Artwork.jpg"
       }
      ]
     }
