@@ -6,6 +6,14 @@
       "secretBase" : "Super tower",
       "active" : true,
       "members" : [
+           {
+        "superhero":"God of Mischief", 
+        "publisher":"Marvel Comics", 
+        "actor":"Tom Hiddleston",
+        "cameout":"Thor Comics",
+        "characters":"Loki",
+        "images": "https://i.insider.com/527a5fb4ecad047a079ab76e?width=1100&format=jpeg&auto=webp"
+      },
         {
         "superhero":"Batman", 
         "actor":"Bruce Wayne",
@@ -16,7 +24,7 @@
         {
         "superhero":"Flash", 
         "actor":"Jay Garrick",
-        "cameout":"Flash Comics #1",
+        "cameout":"Flash Comics",
         "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen",
         "images": "https://programma.sorrisi.com/guidatv/uploads/media/cache/epg_program_large/uploads/epg/images/programseries/0/0/originale/269291.jpg"
       },
@@ -24,7 +32,7 @@
         "superhero":"Captain America", 
         "publisher":"Marvel Comics", 
         "actor":"Steve Rogers",
-        "cameout":"Captain America Comics #1",
+        "cameout":"Captain America Comics",
         "characters":"Steve Rogers",
         "images": "https://i.pinimg.com/originals/d5/81/79/d58179ac3e5781037d0fbf2bf3a97cdc.jpg"
       },
@@ -32,7 +40,7 @@
         "superhero":"Iron Man", 
         "publisher":"Marvel Comics", 
         "actor":"Tony Stark",
-        "cameout":"Tales of Suspense #39",
+        "cameout":"Tales of Suspense",
         "characters":"Tony Stark", 
         "images": "https://miro.medium.com/max/3840/1*IXj6F6TiST3LK9r50a-MLw.jpeg"
        },
@@ -40,7 +48,7 @@
         "superhero":"Thor", 
         "publisher":"Marvel Comics", 
         "actor":"Thor Odinson",
-        "cameout":"Journey into Myster #83",
+        "cameout":"Journey into Myster",
         "characters":"Thor Odinson",
         "images":"https://media.gettyimages.com/photos/chris-hemsworth-sighted-filming-on-the-set-of-thor-2-on-november-16-picture-id156504330?s=612x612"
     },
@@ -48,9 +56,25 @@
         "superhero":"Hulk", 
         "publisher":"Marvel Comics", 
         "actor":"Bruce Banner",
-        "cameout":"The Incredible Hulk #1",
+        "cameout":"The Incredible Hulk",
         "characters":"Bruce Banner",
         "images": "https://fermi.gsfc.nasa.gov/science/constellations/pages/inc/img/hulk/Hulk_Artwork.jpg"
+      },
+      {
+        "superhero":"Scarlet Witch", 
+        "publisher":"Marvel Comics", 
+        "actor":"Elizabeth Olsen",
+        "cameout":"X-Men Comics",
+        "characters":"Wanda Maximoff",
+        "images": "https://i.pinimg.com/736x/7c/2f/cc/7c2fcc4e46a2a0f7e25d863428c164aa.jpg"
+      },
+        {
+        "superhero":"Super Man", 
+        "publisher":"DC Comics", 
+        "actor":"Henry Cavill",
+        "cameout":"Action Comics",
+        "characters":"Clerk Kent",
+        "images": "https://specials-images.forbesimg.com/imageserve/5ecfb5cbfd2d3b0007993687/960x0.jpg?fit=scale"
       }
      ]
     }
