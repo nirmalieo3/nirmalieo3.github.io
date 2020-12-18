@@ -1,0 +1,38 @@
+{
+      "groupName" : "library ",
+      "formed" : "B.C.",
+      "active" : true,
+      "books" : [
+           {
+        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
+        "name":"Jane Eyre", 
+        "author":"Charlotte Bronte",
+        "pages": 256
+       },
+         {
+        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
+        "name":"Jane Eyre", 
+        "author":"Charlotte Bronte",
+        "pages": 256
+       },
+         {
+        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
+        "name":"Jane Eyre", 
+        "author":"Charlotte Bronte",
+        "pages": 256
+       },
+         {
+        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
+        "name":"Jane Eyre", 
+        "author":"Charlotte Bronte",
+        "pages": 256
+       },
+         {
+        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
+        "name":"Jane Eyre", 
+        "author":"Charlotte Bronte",
+        "pages": 256
+       },
+        
+     ]
+    }
