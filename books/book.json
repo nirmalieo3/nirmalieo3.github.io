@@ -1,8 +1,8 @@
-{
-      "groupName" : "library",
-      "formed" : "B.C.",
-      "active" : true,
-      "books" : [
+    {
+      "groupName":"library",
+      "formed":"B.C.",
+      "active":true,
+      "books":[
            {
         "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
         "name":"Jane Eyre", 
@@ -10,27 +10,27 @@
         "pages": 256
        },
          {
-        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
-        "name":"Jane Eyre", 
-        "author":"Charlotte Bronte",
+        "images":"https://i.pinimg.com/236x/1a/25/5f/1a255fbf316c495a1bc06580ef9fb06f--great-expectations-reading-books.jpg", 
+        "name":"Great expectations", 
+        "author":"Charles Dickens",
         "pages": 256
        },
          {
-        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
-        "name":"Jane Eyre", 
-        "author":"Charlotte Bronte",
+        "images":"https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg", 
+        "name":"Harry Potter", 
+        "author":"J.K.Rowling",
         "pages": 256
        },
          {
-        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
-        "name":"Jane Eyre", 
-        "author":"Charlotte Bronte",
+        "images":"https://images-na.ssl-images-amazon.com/images/I/51khKOOkt3L._SX311_BO1,204,203,200_.jpg", 
+        "name":"Doctor Who", 
+        "author":"George Mann",
         "pages": 256
        },
          {
-        "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
-        "name":"Jane Eyre", 
-        "author":"Charlotte Bronte",
+        "images":"https://images-na.ssl-images-amazon.com/images/I/51EstVXM1UL._SX331_BO1,204,203,200_.jpg", 
+        "name":"Lord of the Rongs", 
+        "author":"J.R.R.Tolkien",
         "pages": 256
        }
         
