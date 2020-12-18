@@ -44,7 +44,25 @@
         "name":"Sherlock Holmes", 
         "author":"Sir Arthur Conan Doyle",
         "pages": 307
-       }
-           
+       },
+       {
+        "images":"https://images-na.ssl-images-amazon.com/images/I/71WSzS6zvCL.jpg", 
+        "name":"Hunger Games", 
+        "author":"Suzanne Collins",
+        "pages": 374
+       },
+       {
+        "images":"https://www.georgerrmartin.com/wp-content/uploads/2013/04/gotcomics1.jpg", 
+        "name":"Game of Thrones", 
+        "author":"George R.R.Martin",
+        "pages": 694
+       },
+       {
+        "images":"https://s3.amazonaws.com/1000books.com/img/answers/1755.jpg", 
+        "name":"The Count of Monte Cristo", 
+        "author":"Alexandre Dumas",
+        "pages": 1276
+       },   
+                 
      ]
     }
