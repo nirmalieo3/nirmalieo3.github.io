@@ -7,19 +7,19 @@
         "images":"https://i.pinimg.com/originals/6d/ee/4a/6dee4a8c49c9cad6aebceba5e7839ff1.jpg", 
         "name":"Jane Eyre", 
         "author":"Charlotte Bronte",
-        "pages": 256
+        "pages": 532
        },
          {
         "images":"https://i.pinimg.com/236x/1a/25/5f/1a255fbf316c495a1bc06580ef9fb06f--great-expectations-reading-books.jpg", 
         "name":"Great expectations", 
         "author":"Charles Dickens",
-        "pages": 256
+        "pages": 500
        },
          {
         "images":"https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg", 
         "name":"Harry Potter", 
         "author":"J.K.Rowling",
-        "pages": 256
+        "pages": 332
        },
          {
         "images":"https://images-na.ssl-images-amazon.com/images/I/51khKOOkt3L._SX311_BO1,204,203,200_.jpg", 
@@ -29,10 +29,22 @@
        },
          {
         "images":"https://images-na.ssl-images-amazon.com/images/I/51EstVXM1UL._SX331_BO1,204,203,200_.jpg", 
-        "name":"Lord of the Rongs", 
+        "name":"Lord of the Rings", 
         "author":"J.R.R.Tolkien",
-        "pages": 256
+        "pages": 423
+       },
+        {
+        "images":"https://i.pinimg.com/originals/6c/b2/af/6cb2af923fda2b8befdad38aab8974df.jpg", 
+        "name":"Wuthering Heights", 
+        "author":"J.R.R.Tolkien",
+        "pages": 400
+       },
+         {
+        "images":"https://images-na.ssl-images-amazon.com/images/I/51EstVXM1UL._SX331_BO1,204,203,200_.jpg", 
+        "name":"Sherlock Holmes", 
+        "author":"Sir Arthur Conan Doyle",
+        "pages": 307
        }
-        
+           
      ]
     }
